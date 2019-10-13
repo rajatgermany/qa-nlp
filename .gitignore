@@ -1,0 +1,6 @@
+__pycache__
+.ipynb*
+encoders/
+Glove/
+Infersent/
+*.pkl
