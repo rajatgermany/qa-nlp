@@ -14,7 +14,7 @@ To improve upon machnine learning model results, I have implemented the deep lea
 ### Demo
 To view the demo I have implement a api, run the file api.py . I attached the image below of the request from the postman
 
-![alt text](https://github.com/rajatgermany/qa-nlp/master/img/demo.png)
+![alt text](./img/demo.png)
 
 
 ## Steps
